@@ -1,0 +1,4 @@
+[submodule "SFML-Engine"]
+	path = SFML-Engine
+	url = git@github.com:infinityshelf/SFML-Engine.git
+	branch = dev
